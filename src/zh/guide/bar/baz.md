@@ -6,5 +6,5 @@ icon: info
 功能详情...
 
 $$
-A+B=C
+A+B=C=D
 $$
